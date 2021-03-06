@@ -1,8 +1,7 @@
 # Android-PlantAppUI
+This is Random Demo for Agriculture Ecommerce App Developed by me for youtube video.
+Kindly subscribe - https://www.youtube.com/dineshraturi
 
+Tech stack -  Constraint Layout
 ![Screenshot](plantappui.PNG)
 
-<p align="center">
-  <img src="https://github.com/AndroidArena/Android-PlantAppUI/blob/main/plantappui.PNG" width="350" title="hover text">
-  <img src="https://github.com/AndroidArena/Android-PlantAppUI/blob/main/plantappui.PNG" width="350" alt="accessibility text">
-</p>
