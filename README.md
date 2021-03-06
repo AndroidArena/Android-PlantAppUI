@@ -1,8 +1,8 @@
 # Android-PlantAppUI
 
-![Screenshot](plantappui.png)
+![Screenshot](plantappui.PNG)
 
 <p align="center">
-  <img src="plantappui.png" width="350" title="hover text">
-  <img src="plantappui.png" width="350" alt="accessibility text">
+  <img src="https://github.com/AndroidArena/Android-PlantAppUI/blob/main/plantappui.PNG" width="350" title="hover text">
+  <img src="https://github.com/AndroidArena/Android-PlantAppUI/blob/main/plantappui.PNG" width="350" alt="accessibility text">
 </p>
